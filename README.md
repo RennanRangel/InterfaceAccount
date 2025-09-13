@@ -5,9 +5,6 @@ Foram implementados dois tipos de conta: **Conta Corrente** e **Conta Poupança*
 
 ---
 
-##  Estrutura do Projeto
-
----
 
 ## ⚙️ Funcionalidades
 
